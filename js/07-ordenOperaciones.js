@@ -23,7 +23,7 @@ console.log(puntaje); // Imprime 12 por que ya se aplico el incremento anterior
 console.log(++puntaje); // Imprime 13 ya que el incremento se hace despues de la impresion
 
 
-puntaje-- // decremento en 1 IMPRIME 12
+puntaje-- // decremento en 1 ahora es 12
 console.log(puntaje--); // Imprime 12 por que el decremento esta despues 
 console.log(puntaje); // Imprime 11 
 console.log(--puntaje); // Imprime 10 por que el decremento esta despues 
