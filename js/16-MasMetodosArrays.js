@@ -11,7 +11,6 @@ const carrito = [
 ];
 
 // forEach
-
 meses.forEach(function(mes){
     if(mes == 'Enero'){
         console.log('si esta enero');
