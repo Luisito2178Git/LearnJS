@@ -1,0 +1,34 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "titulo": "Inception",
+            "genero": "Ciencia ficción",
+            "anio": 2010
+        },
+        {
+            "id": 2,
+            "titulo": "The Godfather",
+            "genero": "Crimen",
+            "anio": 1972
+        },
+        {
+            "id": 3,
+            "titulo": "The Dark Knight",
+            "genero": "Acción",
+            "anio": 2008
+        },
+        {
+            "id": 4,
+            "titulo": "Pulp Fiction",
+            "genero": "Crimen",
+            "anio": 1994
+        },
+        {
+            "id": 5,
+            "titulo": "Interstellar",
+            "genero": "Ciencia ficción",
+            "anio": 2014
+        }
+    ]
+}
